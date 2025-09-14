@@ -1,16 +1,26 @@
-# food
+# MenuApp
 
-A new Flutter project.
+MenuApp is a simple Flutter app I’m making to practice and learn.  
+The idea of the app is to show menus
+throught the course
+## ✨ What the app does
 
-## Getting Started
+- Shows a menu screen  
+- Lets you navigate between pages  
+- Displays items in a simple layout  
+- Has some placeholder content to test the desig
+- 
+ 📦 What it already has
 
-This project is a starting point for a Flutter application.
+- Flutter project setup (works on Android/iOS)  
+- Basic navigation between screens  
+- Simple UI with some test menu items  
+- Project structure ready for more features
+- ## 🚀 What’s next
 
-A few resources to get you started if this is your first Flutter project:
+I will update it soon with:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Real menu data instead of placeholders  
+- Better UI design and styling  
+- Extra features like categories, favorites, maybe search  
+- More interactivity for users  
